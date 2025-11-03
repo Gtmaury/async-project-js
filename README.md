@@ -1,2 +1,2 @@
-# async-project-js
+# Async-project-js
 A project to practice Async JS
